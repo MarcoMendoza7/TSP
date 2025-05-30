@@ -1,4 +1,4 @@
 //hola mundo!!!
 
 //Python
-//Java Scrip
+//Java Script
