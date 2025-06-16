@@ -1,0 +1,26 @@
+[
+    {
+        "nombre": "A",
+        "conexiones": [
+            {"destino": "B", "distancia": 5},
+            {"destino": "C", "distancia": 10}
+        ]
+    },
+    {
+        "nombre": "B",
+        "conexiones": [
+            {"destino": "C", "distancia": 3},
+            {"destino": "D", "distancia": 7}
+        ]
+    },
+    {
+        "nombre": "C",
+        "conexiones": [
+            {"destino": "D", "distancia": 2}
+        ]
+    },
+    {
+        "nombre": "D",
+        "conexiones": []
+    }
+]

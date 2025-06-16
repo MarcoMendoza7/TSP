@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  font-family: Arial;
+  background: #fff;
+}
+
+#mapa {
+  height: 400px;
+}
+
+#formulario {
+  background: #27ae60;
+  padding: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  color: white;
+}
+
+#formulario input,
+#formulario select,
+#formulario button {
+  padding: 5px;
+  font-size: 1em;
+}
+
+#info {
+  background: #f39c12;
+  padding: 10px;
+  color: white;
+  font-weight: bold;
+  white-space: pre-wrap;
+}
